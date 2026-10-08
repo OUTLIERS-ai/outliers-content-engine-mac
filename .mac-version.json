@@ -1,0 +1,353 @@
+{
+  "main": "outliers-content-engine",
+  "main_commit": "876a0cb3334714b03e6e04f709b69e5c1b835fe6",
+  "mac": "outliers-content-engine-mac",
+  "macgen_commit": "3b53f66+uncommitted",
+  "date": "2026-10-08",
+  "fingerprint": "1d8b792dfa13b164dbe9ff532ca2ac812bb29592b472662f7f75b7a9c7e560b2",
+  "left_out_of_fingerprint": [
+    ".mac-version.json"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "category": "same",
+      "sha256": "f904944497c488af7d78c4629bafb5fa1736260f71405dc74876785223f0b539"
+    },
+    {
+      "path": "KIT-SOURCE.md",
+      "category": "same",
+      "sha256": "914b4cf4b7b9a52e66006409eb06049ee6e4c9146c15dc196b4c4c63a209f30e"
+    },
+    {
+      "path": "KNOWN-PROBLEMS.md",
+      "category": "same",
+      "sha256": "e441facec55a5191e4caec125e5875a4e4d0f4cb392fcf8e056de98293e5927e"
+    },
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "ee820c107302b398b159ac073d6a25c61217877419fc962d9d21b49278d690b5"
+    },
+    {
+      "path": "START-HERE.md",
+      "category": "changed",
+      "sha256": "a794b645b016af669a543e2f5f6cd55bfb49485fdb4e68ee00a6a149120c0893"
+    },
+    {
+      "path": "briefs/_TEMPLATE-WAVE/CUTS.md",
+      "category": "same",
+      "sha256": "85e6251630e065b8ff1ed1c286935c7a008db5db6dde8a8366b07ea197fc10bb"
+    },
+    {
+      "path": "briefs/_TEMPLATE-WAVE/DRAFT-TEMPLATE.md",
+      "category": "same",
+      "sha256": "d7c20015a22005c91df542d4dc2e0cc4f63f8ff93d34db3b8d3f7c830a6b8b7e"
+    },
+    {
+      "path": "briefs/_TEMPLATE-WAVE/GROUNDING.md",
+      "category": "same",
+      "sha256": "c30bba4185273770d59bbe42f0107c7708e19695c1b461a6526dbdd87dcf3b50"
+    },
+    {
+      "path": "briefs/_TEMPLATE-WAVE/ONE-POST-BRIEF.md",
+      "category": "same",
+      "sha256": "2d2d37894eda6067aed3a736c05feaab7b11cff7ce0ec3bf69b095ca8b74e3ee"
+    },
+    {
+      "path": "briefs/_TEMPLATE-WAVE/WAVE-COMMISSION.md",
+      "category": "same",
+      "sha256": "d406224113d09992c77a7271be0a5bd47b91470e63f22d1ff0f452b111a079d9"
+    },
+    {
+      "path": "briefs/_TEMPLATE-WAVE/drafts/.gitkeep",
+      "category": "same",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "carousel/.gitignore",
+      "category": "same",
+      "sha256": "271540188ae129e9d99d3a8ad965db71df8c7cd7abfacb3580f60a5b61de5c1a"
+    },
+    {
+      "path": "carousel/KNOWN-PROBLEMS-CAROUSEL.md",
+      "category": "same",
+      "sha256": "68410c5d9a8d0b1b16a714bcc673e00cbf3b7ee34b51f78bb7e41a8c6aeef61a"
+    },
+    {
+      "path": "carousel/README.md",
+      "category": "changed",
+      "sha256": "a20d0b45246edecddb8f971f1b54240089ad658ec29e38e53059cdb76f1faccb"
+    },
+    {
+      "path": "carousel/brand/brand.css",
+      "category": "same",
+      "sha256": "6724ca0f645af2ef4c19cb0ca1251ba10ca0e55bf0cffaa519fd6e77f03abe72"
+    },
+    {
+      "path": "carousel/brand/fonts/Inter-Variable.ttf",
+      "category": "same",
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "carousel/brand/fonts/JetBrainsMono-Variable.ttf",
+      "category": "same",
+      "sha256": "48715a42ec242c21e9f02692891e147d022299a52e48d5e413e1a942193ffeda"
+    },
+    {
+      "path": "carousel/brand/fonts/OFL.txt",
+      "category": "same",
+      "sha256": "7b1efba1d2c2d67b829caabd4baebf87ad1518cdbabeb632232ec161c4ba952c"
+    },
+    {
+      "path": "carousel/brand/logo-dark.png",
+      "category": "same",
+      "sha256": "cf5e577523c4a4c3b8dd7cb49a54de28d1d3eb3c9dd8dfdab3288f6ef991d99a"
+    },
+    {
+      "path": "carousel/brand/logo-light.png",
+      "category": "same",
+      "sha256": "ad54ac5df7e6734975b2f609a5cc136030d7098421438bb1881f92b801962074"
+    },
+    {
+      "path": "carousel/build_carousel.py",
+      "category": "same",
+      "sha256": "66a61ff305b27136d537b4211372bf96341ac81e231b8d66207fc44dbb3ab9d5"
+    },
+    {
+      "path": "carousel/carousel-instructions.md",
+      "category": "same",
+      "sha256": "203eae5da1101211480d8222d5d2c44287a868f2a7f460c3445729f7d5913b9d"
+    },
+    {
+      "path": "carousel/carousel.css",
+      "category": "same",
+      "sha256": "544e1a6af978a77240fbe47769df0e9d8f22feaafa22612980ac006de7c8a452"
+    },
+    {
+      "path": "carousel/check/assert_not_evidence.py",
+      "category": "same",
+      "sha256": "213df1a3441049a64b960d1f4c369f3ea7be064d6656f2ca0b3a44c6602cb409"
+    },
+    {
+      "path": "carousel/check/device_rules.py",
+      "category": "same",
+      "sha256": "d66c76cb6939b40a41568947ab3907f76b2911c210d09dee8ccb65fea41fc9a7"
+    },
+    {
+      "path": "carousel/check/house_rules.json",
+      "category": "same",
+      "sha256": "5268444f801c66eefb6302f437e7e02d4140ef746213333b36b290969e30cc5b"
+    },
+    {
+      "path": "carousel/check/slide_checks.py",
+      "category": "same",
+      "sha256": "dd8403dc7a31f09ff835609a5b8770e2d820270b292e0f15c8c7dc852aff5996"
+    },
+    {
+      "path": "carousel/requirements.txt",
+      "category": "same",
+      "sha256": "eda4053d55a59643c9cd6a1d2e3d296aefb48ae86e0025a85be22c63461cdbad"
+    },
+    {
+      "path": "carousel/specs/SPEC-FORMAT.md",
+      "category": "same",
+      "sha256": "0f1dde51d0aaeca1c4d7b24c8002dcba7322bfb3f8316f3045952f857ef5e627"
+    },
+    {
+      "path": "carousel/specs/example-list.json",
+      "category": "same",
+      "sha256": "b92fa00531163df389ab1f33cf5c7646d5ef8a27a62e16eb6ac79db88a1998d0"
+    },
+    {
+      "path": "carousel/specs/example-split.json",
+      "category": "same",
+      "sha256": "487a87d4909d9890fb0aeca806d7d14b455a9fc8e2b2b39cbe367a60ec8e2b2a"
+    },
+    {
+      "path": "carousel/specs/example-verdict.json",
+      "category": "same",
+      "sha256": "811db14f28bcebf821d3392ffa183ac6ec21a44f1493dfe431c70f723b28636a"
+    },
+    {
+      "path": "carousel/specs/images/example-shot.png",
+      "category": "same",
+      "sha256": "af25ed15a1d41d23a76bf265112cdc23b40fc5d6c6bd5dff45929f81c7e065d9"
+    },
+    {
+      "path": "config.example.json",
+      "category": "same",
+      "sha256": "be061f9339134b70730f802886e7f7f43a7037af73ff68d60f4a3993f14da334"
+    },
+    {
+      "path": "data/findings.jsonl",
+      "category": "same",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "engine/assert_not_evidence.py",
+      "category": "same",
+      "sha256": "9d1f835502748fea36884bba71dd230fe0d46ca20422faed5c66d6954fbe0ce8"
+    },
+    {
+      "path": "engine/banned_words.py",
+      "category": "same",
+      "sha256": "d9ac934a593be076f640c0b1a8a3c84038707df0d3df1186c4e6788c857dc13c"
+    },
+    {
+      "path": "engine/batch_checks.py",
+      "category": "same",
+      "sha256": "6ed9cee9231e4ab7ae405877cf1a60dee2ecc9003ca9373acf77cd3af524e4fd"
+    },
+    {
+      "path": "engine/commission_gate.py",
+      "category": "same",
+      "sha256": "648a1a55c324df08e8d49e76bf93f36ef0c663a3a33e56328bddf1ecec7fda9c"
+    },
+    {
+      "path": "engine/findings.py",
+      "category": "same",
+      "sha256": "768d7bdb0d2cfdd64c14eeaf0073c525059b8dc7fad00c7db96a4623bdac623e"
+    },
+    {
+      "path": "engine/kitconfig.py",
+      "category": "same",
+      "sha256": "5aef4375fb89085d6bee795b452e1f31fa4d27ef84bcdb481f167d23ea2e2ea9"
+    },
+    {
+      "path": "engine/mine_transcripts.py",
+      "category": "same",
+      "sha256": "443e7a3b190a12d160eb02802212d1733764e3fa34a4a6c0b3052f03ae5b2861"
+    },
+    {
+      "path": "engine/post_checks.py",
+      "category": "same",
+      "sha256": "0a1e514349a954ca13b110e779c41b474b7111eecfc303633aa6668f65fe2882"
+    },
+    {
+      "path": "engine/preview_linkedin.py",
+      "category": "same",
+      "sha256": "306d4c5d44e5cff61fa25636dea3f2bb1356cd3c777e9c14faa998b810bfb3cf"
+    },
+    {
+      "path": "engine/provenance.py",
+      "category": "same",
+      "sha256": "c37e3a04e19a0b474fa159996726030035f145955df79e1bc1f79c0c90613caf"
+    },
+    {
+      "path": "engine/rule_tables.py",
+      "category": "same",
+      "sha256": "80d959fbd428a009ddd29ee6ee7c2243c27f8074cd6cfd2adddaea0b587f6cf9"
+    },
+    {
+      "path": "engine/unicode_scrub.py",
+      "category": "same",
+      "sha256": "8350653fc55997f3abd17673c765f20e8718ccbf5491a092f1d15e4adef9ea40"
+    },
+    {
+      "path": "example/briefs/EXAMPLE-WAVE/CUTS.md",
+      "category": "same",
+      "sha256": "de72927f6c3312b5f5fa1be114efffe0c4d54f5a4345ec38ddbd8689b0dfcfe4"
+    },
+    {
+      "path": "example/briefs/EXAMPLE-WAVE/EX-01-brief.md",
+      "category": "same",
+      "sha256": "236fd21c10008234b9cfcdc59fea8ef95e504806d9f247502acc49e016c3876e"
+    },
+    {
+      "path": "example/briefs/EXAMPLE-WAVE/GROUNDING.md",
+      "category": "same",
+      "sha256": "3c62f31055fcafb55b515f8a2bf172f9af3880c312df3135ccb69b8551dba839"
+    },
+    {
+      "path": "example/briefs/EXAMPLE-WAVE/drafts/EX-01-01-sunday-night-books.md",
+      "category": "same",
+      "sha256": "8f81e77a75f910125458fca9a90e51c8ef745ffc82554079d020a99e0bab440a"
+    },
+    {
+      "path": "example/briefs/EXAMPLE-WAVE/drafts/EX-01-02-invoice-from-the-van.md",
+      "category": "same",
+      "sha256": "d9e60214c27503c5985488df978bbcb35ed6681287ef0646524e570fc09e9fef"
+    },
+    {
+      "path": "example/briefs/EXAMPLE-WAVE/drafts/EX-01-03-the-vat-account.md",
+      "category": "same",
+      "sha256": "0604b48e6317413001028a437bd510707b2df550b35ebdd1078391b23ee7b981"
+    },
+    {
+      "path": "example/your-voice/THE-STANDARD.md",
+      "category": "same",
+      "sha256": "ba112d2291d3274bd66c78467aafba3baf9820cfea37b17514a9a417b0a4e287"
+    },
+    {
+      "path": "example/your-voice/opinions/OPINIONS.md",
+      "category": "same",
+      "sha256": "d120bae70d708f0a1c381bb4b614220a7e20603a0ce7a0086c094f0c7b450a97"
+    },
+    {
+      "path": "lessons-worth-adopting.md",
+      "category": "same",
+      "sha256": "76483d1ffbb22f4ed769f2cdab45806847f14a597da9cac08c20ae1d25c9b9f1"
+    },
+    {
+      "path": "prompts/add-a-lesson.md",
+      "category": "same",
+      "sha256": "f54758d18d52e0c6a1dfc4b1dac7e2283beb218796c27bd6e06827a7f787c9b7"
+    },
+    {
+      "path": "prompts/mine-a-month.md",
+      "category": "same",
+      "sha256": "d429990f7cdaf3d1708a734f53e776269c19e72cad0afe1cd26e799df30df581"
+    },
+    {
+      "path": "prompts/record-the-cuts.md",
+      "category": "same",
+      "sha256": "7b978ff8707a0f6dc0eaa0dd0d65d8f9db249ca5c2d09f0b1ebd61e39ba45ab9"
+    },
+    {
+      "path": "prompts/write-a-wave.md",
+      "category": "same",
+      "sha256": "750ffc50ec754e1fb6fce2da7eeccdc1ed7558a7d3492365268f858b9c7f5887"
+    },
+    {
+      "path": "your-voice/THE-STANDARD.md",
+      "category": "same",
+      "sha256": "8515e436fdf451dbebf55920fdef0bc3cdbde5f5c83a35fa8c28363a4707870c"
+    },
+    {
+      "path": "your-voice/banned_words.json",
+      "category": "same",
+      "sha256": "7b9d0f995c1cf96edf903d525b5ac8233df8dbcbf4bf3cdbb7e0a585fdb1178a"
+    },
+    {
+      "path": "your-voice/my-posts.example.csv",
+      "category": "same",
+      "sha256": "065b56e380bc02f83853d97cca32363773a307befa577cf693081a32295f237b"
+    },
+    {
+      "path": "your-voice/opinions/OPINIONS.md",
+      "category": "same",
+      "sha256": "2f668535cc3bd6f2bf48f3cf563d59aa93c640a1f52c4dd58681975da7fc842f"
+    },
+    {
+      "path": "your-voice/opinions/_EXCLUSIONS.md",
+      "category": "same",
+      "sha256": "e9d9a8f6c5a970d8db1085c3974dd0240bb3a3f8e575b81f7b8f70606ea2ff09"
+    },
+    {
+      "path": "your-voice/opinions/_INDEX.md",
+      "category": "same",
+      "sha256": "6cdaf681e277b0a978cafd0b59ebca07d9e2fe49ab061da0317f77d36bc87a01"
+    },
+    {
+      "path": "your-voice/opinions/_METHOD.md",
+      "category": "same",
+      "sha256": "4f0816f9f0ab02a0cb3be063be6405b18ff23ef221abc85c103247563f8fa217"
+    },
+    {
+      "path": "your-voice/opinions/_TEMPLATE-MONTH.md",
+      "category": "same",
+      "sha256": "1efe1c79d2bb397a0c8130be12900b3b1fdd578c66aaf0a34e53c369a3f499b8"
+    }
+  ]
+}
